@@ -8,10 +8,14 @@ O projeto a seguir foi realizado dentro da Comunidade DS e utiliza dados reais d
 # Projeto DS em Produção - Rossmann
 
 ## 1. Problema de Negócio
- Rossmann é uma rede de farmácias alemã com unidades espalhadas por vários países da Europa. O CFO da empresa solicitou dados sobre a quantidade de vendas para orientar a definição do montante necessário para renovação de estoque. A partir daí, foi definido que seria necessário a construção de um modelo que prevesse a quantidade de vendas de cada unidade nas próximas 6 semanas.
+ Rossmann é uma rede de farmácias alemã com unidades espalhadas por vários países da Europa. O CFO da empresa solicitou dados sobre a quantidade de vendas para orientar a definição do montante necessário para renovação de estoque e reforma dos pontos. A partir daí, foi definido que seria necessário a construção de um modelo que prevesse a quantidade de vendas de cada unidade nas próximas 6 semanas.
  
  ## 2. Business assumptions
+ 
+ 
  ## 3. Estratégia de solução
+  Desenvolveremos um modelo de predição que antecipa a quantidade de vendas das próximas 6 semanas das unidades individualmente e que poderá ser acessada por celular por qualquer gerente da empresa.
+ 
  ## 4. Top 3 Insights
  ## 5. Machine Learning Model Applied
  ## 6. Machine Learning Performance
