@@ -11,7 +11,9 @@ O projeto a seguir foi realizado dentro da Comunidade DS e utiliza dados reais d
  Rossmann é uma rede de farmácias alemã com unidades espalhadas por vários países da Europa. O CFO da empresa solicitou dados sobre a quantidade de vendas para orientar a definição do montante necessário para renovação de estoque e reforma dos pontos. A partir daí, foi definido que seria necessário a construção de um modelo que prevesse a quantidade de vendas de cada unidade nas próximas 6 semanas.
  
  ## 2. Business assumptions
- 
+  Os dias em que as lojas estavam fechadas foram descartados;
+  Somente lojas com vendas acima de 0 foram consideradas;
+  Nos casos em que não havia informação de distância de competidores, foi estipulado o valor de 200000.
  
  ## 3. Estratégia de solução
   Desenvolveremos um modelo de predição que antecipa a quantidade de vendas das próximas 6 semanas das unidades individualmente e que poderá ser acessada por celular por qualquer gerente da empresa.
