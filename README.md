@@ -19,6 +19,9 @@ O projeto a seguir foi realizado dentro da Comunidade DS e utiliza dados reais d
   Desenvolveremos um modelo de predição que antecipa a quantidade de vendas das próximas 6 semanas das unidades individualmente e que poderá ser acessada por celular por qualquer gerente da empresa.
  
  ## 4. Top 3 Insights
+ H2: Stores with closer competitors should sell less
+ H8: Stores should be selling more over the years
+ H11: Stores should sell less on weekends
  ## 5. Machine Learning Model Applied
  ## 6. Machine Learning Performance
  ## 7. Business Results
